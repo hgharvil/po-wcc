@@ -1,5 +1,3 @@
-package com.hgharvil.w7;
-
 import java.util.Stack;
 
 public class RobotMaze {
